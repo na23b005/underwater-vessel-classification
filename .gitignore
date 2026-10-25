@@ -1,0 +1,12 @@
+# Raw data (about 26 GB of audio)
+Dataset/
+
+# Python virtual environment
+venv/
+
+# Generated files (clip table, audio info, figures, features)
+outputs/
+
+# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
